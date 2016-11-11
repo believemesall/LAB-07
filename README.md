@@ -118,12 +118,13 @@ namespace RandomNumber
 
 1. สร้างตัวแปรชนิด integer สำหรับรับค่าจากผู้ใช้
 
-
-
 1. สร้างตัวแปร boolean โดยเก็บค่าที่ได้จากการเปรียบเทียบตัวเลขในข้อ 1 และ 2
 
 1. ให้พิมพ์ค่าตัวแปร boolean ในข้อ 3 ออกทางหน้าจอ
 
+#จะได้
+
+<img src = "https://github.com/believemesall/LAB-07/blob/master/LAB7.3.PNG">
 
 ##การเขียนโปรแกรมด้วยตัวดำเนินการทางตรรกะ
 
@@ -215,7 +216,13 @@ namespace thruthTable
 5. NOR
 6. Exclusive OR
 ```
+#ตอบ 
 
+<img src = "https://github.com/believemesall/LAB-07/blob/master/LAB7.4.PNG">
+
+<img src = "https://github.com/believemesall/LAB-07/blob/master/LAB7.5.PNG">
+
+<img src = "https://github.com/believemesall/LAB-07/blob/master/LAB7.6.PNG">
 
 
   2.2.2.	ชนิดข้อมูลตัวเลขจำนวนเต็ม (Integer Types)
@@ -257,6 +264,8 @@ public class intergerTest
 9.	y%8
 10.	100*x+y%2-a
 ```
+#ตอบ 
+<img src = "https://github.com/believemesall/LAB-07/blob/master/LAB7.7.PNG">
 ##2.2.3. ชนิดข้อมูลเลขทศนิยม (Floating Point and Decimal Types)
 ตัวเลขจำนวนทศนิยม มักจะใช้ในการคำนวณทางวิทยาศาสตร์ เนื่องจากค่าในวิทยาศาสตร์ต้องการความละเอียดสูง หรือมีค่าสูงมากกว่าที่เลขจำนวนเต็มจะเก็บได้
 
@@ -313,7 +322,8 @@ Jupiter |	778,330,000 km
 Uranus |	2,873,550,000 km		
 Neptune |	4,501,000,000 km		
 Pluto |	5,945,900,000 km		
-
+#ตอบ
+<Img src = "https://github.com/believemesall/LAB-07/blob/master/LAB7.8.PNG">
 ##คลาส Math 
 ในภาษา C# มีคลาสที่เป็นตัวช่วยคำนวณทางคณิตศาสตร์ ที่ช่วยให้เราสามารถคำนวณฟังก์ชันพื้นฐานได้ อย่างรวดเร็ว ไม่ต้องพัฒนาโปรแกรมเพิ่มเติมด้วยเอง นั่นคือคลาส Math  ฟังก์ชันทางคณิตศาสตร์ที่ใช้บ่อยๆ สามารถดูรายละเอียดทั้งหมดได้จาก 
 [system.math](http://msdn.microsoft.com/en-us/library/system.math%28v=vs.110%29.aspx) 
@@ -372,4 +382,11 @@ The sine of       6.00 = -0.279415         *
 2.	y = cos(x)
 3.	y = tan(x)
 ```
-	
+#ตอบ 
+1
+<img src = "https://github.com/believemesall/LAB-07/blob/master/LAB7.9.PNG">
+2
+<img src = "https://github.com/believemesall/LAB-07/blob/master/LAB7.10.PNG">
+3
+<img src = "https://github.com/believemesall/LAB-07/blob/master/LAB7.11.PNG">
+
